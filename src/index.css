@@ -2,9 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
+
 @layer base {
   :root {
-    --color-purple: 122 106 225;
+    --color-purple: 215 182 118;
     --color-primary: var(--color-purple);
+    --color-main: 3 3 44;
   }
+}
+
+.bg-star4{
+  background-image: url('./assets/card-box4.png');
+}
+
+.bg-star3{
+  background-image: url('./assets/card-box3.png');
+}
+
+.bg-star2{
+  background-image: url('./assets/card-box2.png');
+}
+
+.bg-star1{
+  background-image: url('./assets/card-box1.png');
 }
