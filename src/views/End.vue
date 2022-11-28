@@ -1,5 +1,5 @@
 <template>
-  <div class="w-96 mx-auto">
+  <div class="w-96 mx-auto pt-11">
     <h2 class="text-primary text-6xl text-center font-nightshade my-11">
       Congratulations
     </h2>

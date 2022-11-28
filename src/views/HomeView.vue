@@ -12,7 +12,7 @@
     <router-link
       to="/step1"
       class="mx-auto my-32 text-center block w-1/6 border border-primary text-primary px-11 py-3 rounded-lg hover:text-black hover:bg-gradient-to-r hover:from-main hover:via-primary hover:to-main"
-      >下一頁
+      >開始囉
     </router-link>
   </div>
 </template>
