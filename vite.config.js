@@ -15,6 +15,6 @@ export default defineConfig({
     }
   },
   base: process.env.NODE_ENV === 'production'
-    ? '/vite-tailwind-template/'
+    ? '/2022-W3-Scrum/'
     : '/'
 })
