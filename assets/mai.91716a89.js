@@ -1,1 +1,1 @@
-var t="/vite-tailwind-template/assets/mai.16827e52.png";export{t as _};
+var s="/2022-W3-Scrum/assets/mai.16827e52.png";export{s as _};
